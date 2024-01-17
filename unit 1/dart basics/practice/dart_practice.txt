@@ -1,0 +1,7 @@
+Practice Questions:
+
+1. Ask the user for a string and print out whether this string is a palindrome or not.
+2. Generate a random number between 1 and 100. Ask the user to guess the number, then tell them whether they guessed too low, too high, or exactly right.
+3. Write a program that asks the user how many Fibonnaci numbers to generate and then generates them. 
+4. Write a program that takes a list and returns a new list that contains all the elements of the first list minus all the duplicates.
+5. Write a program that asks the user for a long string containing multiple words. Print back to the user the same string, except with the words in backwards order.
