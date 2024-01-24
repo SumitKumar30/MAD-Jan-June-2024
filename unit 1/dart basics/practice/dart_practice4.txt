@@ -1,0 +1,20 @@
+1. Implement a function that takes a required integer, a named integer argument with a default value, 
+and a variable number of positional integers. 
+The function should return the product of the required integer and the sum of the named and positional integers.
+
+2. Create a function that accepts a required string, a named integer with a default value, and
+ an optional list of integers. The function should check if the length of the string is greater than the named integer and, 
+if the optional list is provided, ensure that all elements are even. 
+If the conditions are met, return true; otherwise, return false.
+
+3. Write following Functions
+These Functions are working on NumberSystem
+a) Decimal Number - Binary Conversion
+b) Binary Number - Decimal Conversion
+c) Decimal Number - Octal Conversion
+d) Octal number - Decimal Conversion
+e) Octal Number - Binary Conversion
+f) Decimal Number - Hexa Conversion
+g) Hexa Number - Decimal Conversion
+h) Hexa Number - Binary Conversion
+ 
