@@ -1,0 +1,41 @@
+1. Create a class employee with the properties: EmpId, EmpName, EmpDept and EmpSalary. Provide
+setter and getter methods for these properties. Calculate the salary as per the dept of the
+employee. All employee are entitled for basic salary 50000 with Allowances as per the dept. The
+percentage of allowances are given in the following map: {admin: 20%, teamlead:70%, technical:
+60%, officestaff:10%}.
+
+2. Create a Student Class, 
+Input : From the Student
+Rollno : Integer type
+Name format : ajay KUmar sHaRma
+Should be converted to : Ajay Kumar Sharma
+3 Subject Marks : Out of 100
+90
+80
+77
+
+Output:
+Total Marks 
+Percentage
+Grade
+>=90 - A Grade
+<90 - >=70 B Grade
+<70 to >=60 C Grade
+<60 to >=50 D Grade
+< 50	E Grade 
+
+
+College Name : All Caps
+Name : Proper Case
+Subjects 
+Total 
+Percentage
+Grade
+
+Note : showcase the use of Named Constructor, Setter and Getter, Positional parameter, optional parameter.
+
+3. Define a Dart class named BankAccount to represent bank accounts. 
+Implement a constructor with a required parameter for the account holder's name and 
+optional named parameters for account number, balance, and account type. 
+Ensure that the account number is initialized to a unique value if not provided, and 
+the balance defaults to 0.0. Include methods to deposit, withdraw, and display account details.
