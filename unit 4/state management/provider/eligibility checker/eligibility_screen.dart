@@ -8,9 +8,6 @@ class EligibilityScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ChangeNotifierProvider<EligibilityProvider>(
-      create: (context) => EligibilityProvider(),
-      child: Builder(builder: (context) {
         return Scaffold(
           body: Container(
             padding: EdgeInsets.all(16),
@@ -58,13 +55,11 @@ class EligibilityScreen extends StatelessWidget {
                 ),
                 Text(provider.eligiblityMessage)
               ],
-                      );
-                  }
-              
+              );
+              }
             )),
           ),
         );
-      }),
-    );
+     
   }
 }
